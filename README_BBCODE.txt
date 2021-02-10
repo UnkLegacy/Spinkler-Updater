@@ -5,7 +5,7 @@ Update your old sprinklers!  New in v1.1, config options!
 - Choose how many Sprinklers it takes to craft next tier of Sprinklers.
 	- Default is [i][b]2[/b][/i] for Quality, [i][b]3[/b][/i] for Iridium.
 - Choose which Farming Skill level is required to unlock the alternate recipes.
-	- Options: [i][b]1[/b][/i], [i][b]2[/b][/i], [i][b]3[/b][/i], [i][b]4[/b][/i], [i][b]5[/b][/i], [i][b]6[/b][/i], [i][b]7[/b][/i], [i][b]8[/b][/i], [i][b]9[/b][/i], [i][b]10[/b][/i]. Default is [i][b]6[/b][/i] for Quality, [i][b]9[/b][/i] for Iridium.
+	- Options: [i][b]0[/b][/i] through [i][b]10[/b][/i]. Default is [i][b]6[/b][/i] for Quality, [i][b]9[/b][/i] for Iridium.
 - Choose which extra material is required to craft the Sprinkler.
 	- Options: [i][b]None[/b][/i], [i][b]Bar[/b][/i], [i][b]Other[/b][/i]. Default is [i][b]Bar[/b][/i] for Quality, [i][b]Other[/b][/i] for Iridium.
 	> [i][b]Bar[/b][/i] means Gold for Quality or Iridium for Iridium.
@@ -21,13 +21,15 @@ Update your old sprinklers!  New in v1.1, config options!
 
 [b][size=5]Compatibility[/size][/b]
 - Should work in both Multiplayer and SinglePlayer.
-- SMAPI 3.9.1, Content Patcher 1.19.4, and Stardew Valley 1.5.3
+- SMAPI 3.9.1, Content Patcher 1.20.0, and Stardew Valley 1.5.3
 
 [b][size=4]Source[/size][/b]
 - I do not guarantee any future updates, compatibility, etc.
 - Source code lives on [url=https://github.com/UnkLegacy/Sprinkler-Updater]GitHub[/url]
 
 [b][size=4]My other mods[/size][/b]
+- [url=https://www.nexusmods.com/stardewvalley/mods/7982]Adjustable Fertilizer[/url]
+	- Choose how much Fertilizer to create when crafting.
 - [url=https://www.nexusmods.com/stardewvalley/mods/7905]More Wild Bait[/url]
 	- Increases number of Wild Bait crafted.
 	- Adds alternate Wild Bait recipe
