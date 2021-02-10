@@ -1,8 +1,7 @@
 ﻿{
-	"Format": "1.19.0",
+	"Format": "1.20.0",
 	"ConfigSchema": {
 		"NumSprinklers": {
-			"AllowValues": "1, 2, 3, 4",
 			"Default": "2",
 			"Description": "The number of Sprinklers used to update to Quality."
 		},
@@ -17,7 +16,6 @@
 			"Description": "Additional item required to craft Quality Sprinkler (Update)."
 		},
 		"NumQualitySprinklers": {
-			"AllowValues": "1, 2, 3, 4",
 			"Default": "3",
 			"Description": "The number of Quality Sprinklers used to update to Iridium."
 		},

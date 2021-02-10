@@ -3,7 +3,7 @@ Update your old sprinklers!  New in v1.1, config options!
 
 [b][size=5]Player Config Options[/size][/b]
 - Choose how many Sprinklers it takes to craft next tier of Sprinklers.
-	- Options: [i][b]1[/b][/i], [i][b]2[/b][/i], [i][b]3[/b][/i], [i][b]4[/b][/i]. Default is [i][b]2[/b][/i] for Quality, [i][b]3[/b][/i] for Iridium.
+	- Default is [i][b]2[/b][/i] for Quality, [i][b]3[/b][/i] for Iridium.
 - Choose which Farming Skill level is required to unlock the alternate recipes.
 	- Options: [i][b]1[/b][/i], [i][b]2[/b][/i], [i][b]3[/b][/i], [i][b]4[/b][/i], [i][b]5[/b][/i], [i][b]6[/b][/i], [i][b]7[/b][/i], [i][b]8[/b][/i], [i][b]9[/b][/i], [i][b]10[/b][/i]. Default is [i][b]6[/b][/i] for Quality, [i][b]9[/b][/i] for Iridium.
 - Choose which extra material is required to craft the Sprinkler.
